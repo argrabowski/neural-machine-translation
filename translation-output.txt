@@ -1,0 +1,96 @@
+Epoch 1, Train Loss: 3.7513, Test Loss: 2.7930
+Epoch 2, Train Loss: 2.5720, Test Loss: 2.4746
+Epoch 3, Train Loss: 2.2656, Test Loss: 2.2725
+Epoch 4, Train Loss: 2.0484, Test Loss: 2.1408
+Epoch 5, Train Loss: 1.8944, Test Loss: 2.0559
+Translation: i fell -> je suis desole de vous avoir fait <EOS>
+Epoch 6, Train Loss: 1.7698, Test Loss: 1.9989
+Epoch 7, Train Loss: 1.6646, Test Loss: 1.9550
+Epoch 8, Train Loss: 1.5739, Test Loss: 1.9122
+Epoch 9, Train Loss: 1.4923, Test Loss: 1.8825
+Epoch 10, Train Loss: 1.4207, Test Loss: 1.8564
+Translation: i fell -> je suis alle a la plage <EOS>
+Epoch 11, Train Loss: 1.3548, Test Loss: 1.8378
+Epoch 12, Train Loss: 1.2956, Test Loss: 1.8242
+Epoch 13, Train Loss: 1.2415, Test Loss: 1.8103
+Epoch 14, Train Loss: 1.1942, Test Loss: 1.8064
+Epoch 15, Train Loss: 1.1463, Test Loss: 1.7963
+Translation: i fell -> je suis alle a la gare a la maison <EOS>
+Epoch 16, Train Loss: 1.1031, Test Loss: 1.7896
+Epoch 17, Train Loss: 1.0628, Test Loss: 1.7865
+Epoch 18, Train Loss: 1.0254, Test Loss: 1.7756
+Epoch 19, Train Loss: 0.9901, Test Loss: 1.7789
+Epoch 20, Train Loss: 0.9574, Test Loss: 1.7738
+Translation: i fell -> je suis alle a la gare a la maison <EOS>
+Epoch 21, Train Loss: 0.9260, Test Loss: 1.7741
+Epoch 22, Train Loss: 0.8964, Test Loss: 1.7677
+Epoch 23, Train Loss: 0.8690, Test Loss: 1.7681
+Epoch 24, Train Loss: 0.8426, Test Loss: 1.7744
+Epoch 25, Train Loss: 0.8180, Test Loss: 1.7671
+Translation: i fell -> je suis tombe sur un ami dans le bus <EOS>
+Epoch 26, Train Loss: 0.7925, Test Loss: 1.7718
+Epoch 27, Train Loss: 0.7704, Test Loss: 1.7724
+Epoch 28, Train Loss: 0.7489, Test Loss: 1.7727
+Epoch 29, Train Loss: 0.7289, Test Loss: 1.7710
+Epoch 30, Train Loss: 0.7078, Test Loss: 1.7776
+Translation: i fell -> je suis arrive ici a l ecole aujourd hui <EOS>
+Epoch 31, Train Loss: 0.6894, Test Loss: 1.7809
+Epoch 32, Train Loss: 0.6705, Test Loss: 1.7853
+Epoch 33, Train Loss: 0.6532, Test Loss: 1.7857
+Epoch 34, Train Loss: 0.6385, Test Loss: 1.7899
+Epoch 35, Train Loss: 0.6206, Test Loss: 1.7884
+Translation: i fell -> je suis reste a l interieur car il pleuvait <EOS>
+Epoch 36, Train Loss: 0.6055, Test Loss: 1.7954
+Epoch 37, Train Loss: 0.5909, Test Loss: 1.8036
+Epoch 38, Train Loss: 0.5772, Test Loss: 1.8074
+Epoch 39, Train Loss: 0.5654, Test Loss: 1.8055
+Epoch 40, Train Loss: 0.5491, Test Loss: 1.8112
+Translation: i fell -> je suis arrive ici a un probleme <EOS>
+Epoch 41, Train Loss: 0.5377, Test Loss: 1.8143
+Epoch 42, Train Loss: 0.5241, Test Loss: 1.8213
+Epoch 43, Train Loss: 0.5137, Test Loss: 1.8283
+Epoch 44, Train Loss: 0.5031, Test Loss: 1.8334
+Epoch 45, Train Loss: 0.4908, Test Loss: 1.8360
+Translation: i fell -> je suis arrive ici a heures environ <EOS>
+Epoch 46, Train Loss: 0.4806, Test Loss: 1.8423
+Epoch 47, Train Loss: 0.4688, Test Loss: 1.8537
+Epoch 48, Train Loss: 0.4608, Test Loss: 1.8539
+Epoch 49, Train Loss: 0.4519, Test Loss: 1.8602
+Epoch 50, Train Loss: 0.4426, Test Loss: 1.8670
+Translation: i fell -> je suis tombe amoureux de toi <EOS>
+Epoch 51, Train Loss: 0.4335, Test Loss: 1.8746
+Epoch 52, Train Loss: 0.4249, Test Loss: 1.8819
+Epoch 53, Train Loss: 0.4174, Test Loss: 1.8851
+Epoch 54, Train Loss: 0.4067, Test Loss: 1.8883
+Epoch 55, Train Loss: 0.4018, Test Loss: 1.8929
+Translation: i fell -> je suis tombe amoureux de la musique <EOS>
+Epoch 56, Train Loss: 0.3913, Test Loss: 1.9083
+Epoch 57, Train Loss: 0.3848, Test Loss: 1.9129
+Epoch 58, Train Loss: 0.3787, Test Loss: 1.9132
+Epoch 59, Train Loss: 0.3699, Test Loss: 1.9180
+Epoch 60, Train Loss: 0.3626, Test Loss: 1.9303
+Translation: i fell -> je suis parti en amerique maintenant <EOS>
+Epoch 61, Train Loss: 0.3577, Test Loss: 1.9313
+Epoch 62, Train Loss: 0.3519, Test Loss: 1.9502
+Epoch 63, Train Loss: 0.3457, Test Loss: 1.9508
+Epoch 64, Train Loss: 0.3386, Test Loss: 1.9581
+Epoch 65, Train Loss: 0.3305, Test Loss: 1.9584
+Translation: i fell -> je suis tombe amoureuse de la musique <EOS>
+Epoch 66, Train Loss: 0.3268, Test Loss: 1.9722
+Epoch 67, Train Loss: 0.3220, Test Loss: 1.9759
+Epoch 68, Train Loss: 0.3156, Test Loss: 1.9871
+Epoch 69, Train Loss: 0.3122, Test Loss: 1.9960
+Epoch 70, Train Loss: 0.3085, Test Loss: 1.9882
+Translation: i fell -> je suis tombe amoureuse de la musique <EOS>
+Epoch 71, Train Loss: 0.3019, Test Loss: 2.0002
+Epoch 72, Train Loss: 0.2971, Test Loss: 2.0032
+Epoch 73, Train Loss: 0.2907, Test Loss: 2.0155
+Epoch 74, Train Loss: 0.2869, Test Loss: 2.0156
+Epoch 75, Train Loss: 0.2812, Test Loss: 2.0296
+Translation: i fell -> je suis tombe amoureuse de toi <EOS>
+Epoch 76, Train Loss: 0.2763, Test Loss: 2.0370
+Epoch 77, Train Loss: 0.2742, Test Loss: 2.0346
+Epoch 78, Train Loss: 0.2696, Test Loss: 2.0496
+Epoch 79, Train Loss: 0.2663, Test Loss: 2.0504
+Epoch 80, Train Loss: 0.2622, Test Loss: 2.0578
+Translation: i fell -> je suis parti aussi tot que tom <EOS>
