@@ -22,7 +22,7 @@ This repository contains an implementation of a neural machine translation (NMT)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/argrabowski/neural-translation.git
+git clone https://github.com/argrabowski/neural-machine-translation.git
 cd neural-translation
 ```
 
